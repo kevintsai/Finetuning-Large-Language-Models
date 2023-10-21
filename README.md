@@ -12,4 +12,4 @@ Learn to finetune an LLM in minutes and specialize it to use your own data
 
 ## Course Link
 
-https://learn.deeplearning.ai/finetuning-large-language-models/
+https://www.deeplearning.ai/short-courses/finetuning-large-language-models/
